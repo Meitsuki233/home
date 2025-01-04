@@ -21,7 +21,7 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "1448575360@qq.com"
+    "url": "mailto:1448575360@qq.com"
   },
   {
     "name": "Twitter",
